@@ -7,5 +7,5 @@ Research work using data driven analysis to assess, track, and measure ESG/Impac
 # Organization Complexity Analysis
 A complexity analysis based on evaluating a non profit company to hybrid model transition using SVD (singular value decompistion)
 
-# Uncertainty Anlysis
+# Uncertainty Analysis
 This Uncertainty Anlysis method takes project Cost & Time as input data point.  First it applies triangle distribution & normal distribution to existing 10 data points. Next step, it uses Monte Carlos method, running 1000 times by sampling random variables each time. From this way, we can see how uncertainty impact existing data using a form of topograph. 
